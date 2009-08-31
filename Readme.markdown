@@ -1,6 +1,6 @@
 # ACD Markdown Theme
 
-by Drew Yeaton
+by Drew Yeaton  
 <http://sentineldesign.net>
 
 Based on work by Phil Toland & Michael Dominic K.
