@@ -159,6 +159,7 @@ li>a+p { display: block }
 /* table */
 
 table {
+    width: 100%;
 	border-top: 1px solid #919699;
 	border-left: 1px solid #919699;
 	border-spacing: 0;
